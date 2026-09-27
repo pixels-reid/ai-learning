@@ -1,2 +1,1 @@
-﻿test.py
 print("hello AI")
